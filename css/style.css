@@ -1,0 +1,53 @@
+/*Your code goes here*/
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-brand {
+    font-size: 42px;
+    font-weight: 500;
+}
+.navbar-toggler-icon {
+  font-size: 26px;
+}
+.promo h2 {
+  white-space: pre-line;
+  font-size: 34px;
+  letter-spacing: -0.6px;
+}
+.promo p {
+  display: flex;
+  color: #525252;
+  font-size: 20px;
+  white-space: pre-line;
+  flex-wrap: nowrap;
+}
+.game-section--dark {
+  background-color: #343A40;
+  color: white;
+}
+.game-section--dark img {
+  box-shadow: 0 5px 30px 15px rgba(0, 0, 0, 0.2);
+}
+.game-section--white {
+  background-color: #F8F9FA;
+  color: #412F29;
+}
+.game-section--white img {
+  box-shadow: 0px -2px 67px 30px rgba(78, 78, 78, 0.25);
+}
+.game-section p {
+  white-space: pre-line;
+}
+.btn-danger {
+  color: white;
+  background-color: #FF7F50;
+  border-color: #FF7F50;
+}
+.btn-danger:hover {
+  background-color: #d1663f;
+  border-color: #d1663f;
+}
+.footer {
+  background-color: #343A40;
+  color: white;
+}
